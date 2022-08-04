@@ -1,12 +1,15 @@
 body {
 background-color: #add8e6;
-font-family: Arial, Helvetica, sans-serif;}
+font-family: Arial, Helvetica, sans-serif;
+}
+
 .baner {
     width: 300px; 
-    }
+}
 
 img:hover {
-opacity: 70%;}
+    opacity: 70%;
+}
 
 table, th, td {
     border-bottom: 1px solid black;
@@ -14,7 +17,7 @@ table, th, td {
     border-collapse: collapse;
     vertical-align:middle;
     padding: 10px;
-  }
+}
 
 th {
     font-weight: bolder;
