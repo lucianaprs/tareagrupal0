@@ -9,17 +9,17 @@ table, th, td {
     border-bottom: 1px solid black;
     text-align: center;
     border-collapse: collapse;
-    vertical-align:middle
+    vertical-align:middle;
+    padding: 10px;
   }
 
 th {
     font-weight: bolder;
     font-size: larger;
-    padding: 10%;
 }
 
-td {
-    padding: 5%;
+tr {
+    padding: 30%;
 }
 
 #mejorTemporada {
