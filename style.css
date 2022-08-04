@@ -31,6 +31,7 @@ td {
 #mejorTemporada {
     background-color: #006341;
 }
+
 .nav {
     text-decoration: none;
     font-weight: bolder;
@@ -40,4 +41,9 @@ td {
 .nav:hover {
     opacity: 70%;
     background-color: white;
+}
+
+img#img.banner{
+    display:block;
+    margin:auto;
 }
