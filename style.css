@@ -6,6 +6,14 @@ img:hover {
 opacity: 70%;}
 
 table, th, td {
-    border: 1px solid;
+    border-bottom: 1px solid black;
     text-align: center;
+    border-collapse: collapse;
+    vertical-align:middle
   }
+
+th {
+    font-weight: bolder;
+    font-size: larger;
+    padding: 10%;
+}
