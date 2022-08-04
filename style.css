@@ -31,3 +31,7 @@ td {
 #mejorTemporada {
     background-color: #006341;
 }
+
+img#img.banner{
+    display:block;
+    margin:auto;
