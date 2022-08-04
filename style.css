@@ -1,6 +1,9 @@
 body {
 background-color: #add8e6;
 font-family: Arial, Helvetica, sans-serif;}
+.baner {
+    width: 300px; 
+    }
 
 img:hover {
 opacity: 70%;}
