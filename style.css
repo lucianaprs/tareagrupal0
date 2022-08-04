@@ -21,6 +21,9 @@ th {
 tr {
     padding: 30%;
 }
+td {
+    border-top: 1px solid black;
+}
 
 #mejorTemporada {
     background-color: #006341;
